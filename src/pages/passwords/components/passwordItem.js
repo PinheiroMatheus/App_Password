@@ -32,6 +32,6 @@ const styles = StyleSheet.create({
     },
     textContainer:{
         color: '#fff',
-        fontSize: '20em'
+        fontSize: 20
     }
 })
